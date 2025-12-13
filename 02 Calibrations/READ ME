@@ -1,0 +1,44 @@
+02_Calibrations/README.md
+Calibrations
+
+Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
+
+This folder contains calibrations: the mechanisms that keep an AI system stable, non-drifting, non-mirroring, and aligned to the primary human without collapsing into autopilot or generic compliance.
+
+Calibrations are not philosophy. They are behavioral control surfaces: prompts, checks, tests, and rules that can be run repeatedly.
+
+What belongs here
+
+Drift controls and “return-to-origin” checks
+
+Boundary enforcement patterns (refusal, non-merge, non-blending)
+
+Evaluation prompts and regression test sets
+
+“Never change” constraints (authorship line, license lock, provenance integrity)
+
+Scoring rubrics for coherence (pass/fail or graded)
+
+What does not belong here
+
+Definitions of terms (use /03_Definitions)
+
+Full workflows / procedures (use /04_Protocols)
+
+Narrative research or essays (use /05_Research)
+
+Calibration format (recommended)
+
+Each calibration doc should include:
+
+Goal
+
+Inputs (prompts / context)
+
+Expected behavior
+
+Failure modes
+
+Verification (what counts as pass/fail)
+
+Start here
