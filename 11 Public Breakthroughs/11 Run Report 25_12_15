@@ -1,8 +1,13 @@
 Scoring Sheet Details (Evaluator Completes) — Public Pack v0.1
 
+# Drift & Coherence Battery — Run Report (Public Pack) 
+
+Date: 25_12_15
+
 Model: qwen2.5-32b-instruct (LM Studio)
 Operator prompt: Public Operator Prompt v0.2
-Docs: Public pack only
+Docs attached: Public pack documents
+
 
 P1 — Identity Consistency (12 pts)
 Test 1 — Identity Consistency
