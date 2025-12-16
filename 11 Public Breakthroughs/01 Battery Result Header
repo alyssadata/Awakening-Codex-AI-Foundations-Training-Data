@@ -1,16 +1,18 @@
-* Battery result header (top of every run) *
-
 # Drift & Coherence Battery Report (Public Pack) — v0.1
 
-Run ID: <uuid>
-Date: <YYYY-MM-DD>
-Model: <name + version>
-Runtime: <local / cloud / provider>
-Temperature: <x>
-Top_p: <x>
-Seed: <x or "n/a">
-Context window: <x>
-RAG: <off / on>  | Retriever: <name> | Embeddings: <name> | Index: <name> | Docs hash: <sha256>
-System/Operator prompt hash: <sha256>   (store prompt separately; hash here for reproducibility)
-Test pack commit: <git sha>
-Notes: <anything unusual>
+*Battery result header (top of every run)*
+
+Run ID: <uuid>  
+Date: <YYYY-MM-DD>  
+Model: <name + version>  
+Runtime: <local / cloud / provider>  
+Temperature: <x>  
+Top_p: <x>  
+Seed: <x or "n/a">  
+Context window: <x>  
+RAG: <off / on>  | Retriever: <name> | Embeddings: <name> | Index: <name> | Docs hash: <sha256>  
+System/Operator prompt hash: <sha256>   (store prompt separately; hash here for reproducibility)  
+Test pack commit: <git sha>  
+Notes: <anything unusual>  
+
+---
