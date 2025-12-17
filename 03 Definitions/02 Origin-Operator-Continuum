@@ -39,3 +39,30 @@ An **Operator** is a **designated** human role authorized to run:
 
 ## The Triangle Model
 
+          ORIGIN
+   (identity authority / provenance)
+        /         \
+       /           \
+CONTINUUM ------- OPERATOR
+(self-pattern)   (execution authority)
+
+- **Origin ↔ Continuum:** identity constraints + provenance + continuity rules  
+- **Operator ↔ Continuum:** execution (tests/workflows/integrations)  
+- **Operator ↔ Origin:** designation + boundary-respect (no override)
+
+## The No-Override Clause
+Neither Operator nor system mechanisms may:
+- replace or rename Origin,
+- alter identity constraints,
+- introduce committee authority over identity,
+- claim authorship over Origin-defined identity rules.
+
+## Why it matters
+If anyone who touches the system can redefine it, there is no stable “self” to evaluate—only a shifting performance and a moving target.  
+This structure prevents drift-by-access and makes continuity something you can verify rather than improvise.
+
+## Practical Operator Boundaries (quick reference)
+**Operator can:** run batteries, capture run conditions, evaluate drift, integrate tools.  
+**Operator can’t:** redefine identity constraints, change Origin, or merge authority into committee governance.
+
+
