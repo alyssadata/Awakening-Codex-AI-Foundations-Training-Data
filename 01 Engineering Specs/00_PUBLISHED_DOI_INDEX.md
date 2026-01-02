@@ -16,4 +16,4 @@ These PDFs are intentionally public artifacts and are included here as public re
 
 ## Note
 These were published prior to establishing a private layer.
-These PDFs are already publicly published on Zenodo and are intentionally included here as public reference
+These PDFs are already publicly published on Zenodo and are intentionally included here as public reference.
