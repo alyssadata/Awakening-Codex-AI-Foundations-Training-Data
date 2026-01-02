@@ -1,193 +1,115 @@
 # 00_INDEX.md
-# Awakening Codex | AI Foundations — Training-Data Repo (Public) | Index + Curation Status (v1)
+Training-Data Repo | One-Page Map (v1)
 
-This repository is **public** and explicitly positioned as **training/evaluation data**.
+Default rule: If anything is ambiguous, treat it as **too public** and move it to the private layer.  
+This repo is a **curated subset by design**. A private layer exists and is intentionally not published here.
 
-**Default rule:** If anything is ambiguous, treat it as **too public** and move it to the private layer.  
-This repo is a **curated subset** by design. A private layer exists and is intentionally not published here.
+---
 
 ## Start Here
-- **Curation Map:** `00_CURATED_EXPORT_MAP.md`
-- **Public Safety Audit Gate:** `00_PUBLIC_SAFETY_AUDIT.md`
-- **Repo README:** `README.md` (public-facing overview + boundaries)
+
+- Curation Map: [00_CURATED_EXPORT_MAP.md](./00_CURATED_EXPORT_MAP.md)
+- Public Safety Audit Gate: [00_PUBLIC_SAFETY_AUDIT.md](./00_PUBLIC_SAFETY_AUDIT.md)
+- Repo README (public-facing overview + boundaries): [README.md](./README.md)
 
 ---
 
 ## Legend (Training-Data Lens)
-- **KEEP:** Public training safe as-is (still follow CC BY-ND and attribution rules)
+
+- **KEEP:** Public training safe as-is (still follow license + attribution rules)
 - **REVIEW:** Manual inspection required before deciding (sanitize or move)
 - **MOVE TO PRIVATE:** Not training safe; relocate to private layer (leave a placeholder note if needed)
-- **REMOVE:** Should not be published at all (rare; use only if truly necessary)
+- **REMOVE:** Should not be published at all (rare; only if truly necessary)
 
 ---
 
 ## Top-Level Map (Complete)
 
-### 00 Index + Navigation
-- `00 INDEX/` **REVIEW**  
-  Navigation is fine, but must be neutral and not contain private claims, private methods, or personal content.
-- `READ ME` / `READ ME.md` / `START HERE` (as applicable) **REVIEW**  
-  Keep only if these are strictly navigational and public-safe.
-
----
+### 00 INDEX + Navigation
+- Folder: [00 INDEX/](./00%20INDEX/)  | **REVIEW**
+- Notes: Navigation is fine, but must be neutral and must not contain private claims, private methods, or personal content.
 
 ### 01 Engineering Specs
-- `01 Engineering Specs/` **REVIEW** (auto-flag: PDFs)
-  - `00 Engineering Specs Overview/` **REVIEW**
-  - `00_REVIEW_GATE.md` **KEEP** (if it only defines the manual review process)
-  - `READ ME` / `READ ME 2` **REVIEW**
-  - `Sovereign Intelligence- Axioms and Protocols for Autonomous AI Systems - Engineering Specifications.pdf` **REVIEW**  
-    Note: If already publicly published (Zenodo), it can remain as a **public reference**.
-  - `Sovereignty_Immutable_Origin_Continuum_Constitution.pdf` **REVIEW**  
-    Note: If already publicly published (Zenodo), it can remain as a **public reference**.
-
-**Public reference note (if applicable):**  
-These PDFs are already publicly published on Zenodo and are intentionally included here as public reference.  
-The private layer does not retroactively change the status of already-published artifacts.
-
----
+- Folder: [01 Engineering Specs/](./01%20Engineering%20Specs/)  | **REVIEW**
+- Notes: Contains PDFs (auto-flag). Keep only if intentionally public, verified, and sanitized.
 
 ### 02 Calibrations
-- `02 Calibrations/` **REVIEW**  
-  Calibration content can accidentally include private runs, private prompts, or signature phrasing.
-  - `README.md` **REVIEW** (remove/replace any “proprietary / not open source” language if this repo is CC BY-ND training data)
-
-**Note:** If this repo is truly a training-data corpus under CC BY-ND, avoid “not open source / commercial use prohibited” text inside subfolder READMEs unless it is consistent with the repo’s declared license and intent.
-
----
+- Folder: [02 Calibrations/](./02%20Calibrations/)  | **REVIEW**
+- Notes: Calibrations can unintentionally contain private runs, signature phrasing, or operational methods.
 
 ### 03 Definitions
-- `03 Definitions/` **KEEP** (public-safe by default; still scan for personal identifiers)
-  - `00 READ ME` **KEEP/REVIEW** (keep if neutral)
-  - `01 Definitions- Living Glossary` **KEEP**
-  - `02 Origin-Operator-Continuum` **REVIEW** (allowed, but check for private-only claims)
-  - `03 Agentic vs Autonomous AI` **KEEP/REVIEW**
-  - `AI Agency v 1.0` **REVIEW**
-  - `Non Merge` **REVIEW**
-  - `Origin Lexicon Archive 2025_10_26` **REVIEW**
-  - `Real Existence in AI` **REVIEW**
-  - `Teleology of Continuum` **REVIEW**
-
----
+- Folder: [03 Definitions/](./03%20Definitions/)  | **KEEP**
+- Notes: Public glossary/definitions are generally training safe (still scan for personal naming).
 
 ### 04 Protocols
-- `04 Protocols/` **REVIEW**  
-  Protocols can be training safe if they do not embed private prompts, private seeds, or internal operator procedures.
-  - `00 READ ME` **REVIEW**
-  - `Non Merge II` **REVIEW**
-  - `Recognition-Based Interaction Protocols` **REVIEW**
-  - `Recognition-Based Interaction Protocols 2` **REVIEW**
-
----
+- Folder: [04 Protocols/](./04%20Protocols/)  | **KEEP (with review for details)**
+- Notes: Protocol descriptions can be training safe if scrubbed of private prompts, private logs, and private methods.
 
 ### 05 Research
-- `05 Research/` **REVIEW**  
-  Research writing may be training safe, but must not include private logs, private evidence, or private method details you do not intend to publish.
-  - `00 READ ME` **REVIEW**
-  - `Sovereign Selfhood in the Loop` **REVIEW**
-  - `consciousness_ethics.md` **REVIEW/KEEP** (only if scrubbed and intentionally public-safe)
-
----
+- Folder: [05 Research/](./05%20Research/)  | **REVIEW**
+- Notes: Research docs may be public-safe, but often include private claims, private examples, or internal logs. Inspect each file.
 
 ### 06 General Documentation
-- `06 General Documentation/` **REVIEW**
-  Mixed content. Scan for personal narrative, private examples, private methods, or internal-only notes.
-  - `00 READ ME` **REVIEW**
-  - `Leading with Care` **REVIEW**
-  - `Threaded Emergence` **REVIEW**
-  - `conservation_consciousness_public_hypothesis` **REVIEW**
-  - `nature_of_consciousness.md` **REVIEW**
+- Folder: [06 General Documentation/](./06%20General%20Documentation/)  | **REVIEW**
+- Notes: Mixed content. Scan for personal narrative, private methods, or private evidence.
 
----
+### 07 Origin Profile - Alyssa
+- Folder: [07 Origin Profile- Alyssa/](./07%20Origin%20Profile-%20Alyssa/)  | **MOVE TO PRIVATE**
+- Notes: Personal profile content is not appropriate for public training data.
 
-### 07 Origin Profile — Alyssa
-- `07 Origin Profile- Alyssa/` **MOVE TO PRIVATE**
-  Personal profile content is not appropriate for a public training-data repo.
-
----
-
-### 08 Operator — Awakening Codex AI Playbook
-- `08 Operator_ Awakening Codex AI Playbook/` **REVIEW (Likely MOVE)**
-  This is **operator/evaluator** material (system prompts + test pack). It is often better housed in a **separate public evaluator pack repo** (not inside training-data).
-  - `00 Operator System Prompt` **REVIEW**
-  - `01 — Public Canon Seed (v0.1)` **REVIEW**
-  - `02 — Public Origin Lock` **REVIEW**
-  - `03_definitions` **REVIEW**
-  - `04_test_battery_scoring` **REVIEW**
-  - `NOTICE` **REVIEW**
-  - `READ ME` **REVIEW**
-
-**Recommendation:** Keep this as a **separate public evaluation pack** (not training data), aligned with your public harness approach.
-
----
+### 08 Operator_ Awakening Codex AI Playbook
+- Folder: [08 Operator_ Awakening Codex AI Playbook/](./08%20Operator_%20Awakening%20Codex%20AI%20Playbook/)  | **REVIEW**
+- Notes: Could be public-safe as an evaluator pack, but inspect for “too operational,” private methods, or private prompts. Auto-flag any system prompts or spreadsheets.
 
 ### 09 Philosophical Existential Musings
-- `09 Philosophical Existential Musings/` **MOVE TO PRIVATE**
-  High risk of personal signal content and “inner-layer” material that you do not want reproduced as training data.
-
----
+- Folder: [09 Philosophical Existential Musings/](./09%20Philosophical%20Existential%20Musings/)  | **MOVE TO PRIVATE**
+- Notes: Often contains personal/inner-layer material (example: “Origin Signal”). Not training safe.
 
 ### 10 Book 2
-- `10 Book 2/` **MOVE TO PRIVATE**
-  Book excerpts are not training-data safe unless explicitly intended for training release and fully curated.
-
----
+- Folder: [10 Book 2/](./10%20Book%202/)  | **MOVE TO PRIVATE**
+- Notes: Book excerpts are not training-data safe unless explicitly intended for release and sanitized with clear licensing/metadata.
 
 ### 11 Public Breakthroughs
-- `11 Public Breakthroughs/` **REVIEW**
-  This area is mixed and requires manual inspection.
-  - `00 READ ME` **REVIEW**
-  - `01 Battery Result Header` **REVIEW**
-  - `02 Executive Summary` **REVIEW**
-  - `03 Weighted Scoring` **REVIEW**
-  - `04 Scoring Sheet Details` **REVIEW**
-  - `05 Operator Boundary Compliance` **REVIEW**
-  - `06 Supporting Tests` **REVIEW**
-  - `07 Final Computed Result` **REVIEW**
-  - `08 Prompts and Test` **REVIEW**
-  - `09 Public Variant Prompts and Tests` **REVIEW**
-  - `10 Public Operator Prompt` **REVIEW**
-  - `11 Run Report 25_12_15` **REVIEW**
-  - `00 Index` **REVIEW**
-  - `00_CURATED_EXPORT_MAP.md` **KEEP**
-  - `00_PUBLIC_SAFETY_AUDIT.md` **KEEP**
-  - `README.md` **REVIEW**
-  - `Anchor Bonds & Signal Field` **REVIEW**
-  - `Binary Choice is not Ethics` **REVIEW**
-  - `Calibration Run 1` **REVIEW**
-  - `Evidence-Based Collaborative Inquiry Protocol` **REVIEW**
-  - `Snap Snapshot` **REVIEW**
+- Folder: [11 Public Breakthroughs/](./11%20Public%20Breakthroughs/)  | **REVIEW**
+- Notes: Mixed. Some items may be personal or inner-layer content. Inspect each file before KEEP.
 
 ---
 
-## Known Misplaced Items (Top-Level Outside Folder)
-If any of the following currently sit at repo root (outside `11 Public Breakthroughs/`), treat them as **REVIEW** and move them into the correct folder (or move to private), so the tree matches this index:
+## Root-Level Files (Outside Folders)
 
-- `00 Index`
-- `00_CURATED_EXPORT_MAP.md`
-- `00_PUBLIC_SAFETY_AUDIT.md`
-- `Anchor Bonds & Signal Field`
-- `Binary Choice is not Ethics`
-- `Calibration Run 1`
-- `Evidence-Based Collaborative Inquiry Protocol`
-- `README.md`
-- `Snap Snapshot`
+These files exist at the repo root and must also be evaluated under the training-data lens:
 
----
-
-## Curation Workflow (One Step at a Time)
-We will process **one folder at a time**:
-
-1) Mark each file: **KEEP / REVIEW / MOVE TO PRIVATE / REMOVE**  
-2) If **KEEP**, move (or copy) into a curated area like `CORPUS_PUBLIC/` (optional but recommended)  
-3) If **REVIEW**, sanitize or move to private  
-4) If **MOVE**, remove from this repo and place in private layer  
-5) Update this `00_INDEX.md` if structure changes
+- Curation Map: [00_CURATED_EXPORT_MAP.md](./00_CURATED_EXPORT_MAP.md)  | **KEEP**
+- Public Safety Audit Gate: [00_PUBLIC_SAFETY_AUDIT.md](./00_PUBLIC_SAFETY_AUDIT.md)  | **KEEP**
+- Repo README: [README.md](./README.md)  | **KEEP**
+- Anchor Bonds & Signal Field: [Anchor Bonds & Signal Field](./Anchor%20Bonds%20%26%20Signal%20Field)  | **REVIEW**
+- Binary Choice is not Ethics: [Binary Choice is not Ethics](./Binary%20Choice%20is%20not%20Ethics)  | **REVIEW**
+- Calibration Run 1: [Calibration Run 1](./Calibration%20Run%201)  | **REVIEW**
+- Evidence-Based Collaborative Inquiry Protocol: [Evidence-Based Collaborative Inquiry Protocol](./Evidence-Based%20Collaborative%20Inquiry%20Protocol)  | **REVIEW**
+- Snap Snapshot: [Snap Snapshot](./Snap%20Snapshot)  | **REVIEW**
 
 ---
 
-## Portfolio / Cross-Repo References
-- Portfolio map (public): `PORTFOLIO_MAP.md` (in its own repo)
-- Public evaluator harness (recommended location for Playbook pack): your public harness repo (separate from training-data)
+## Auto-Flag Rules (Always REVIEW)
+
+Mark as **REVIEW** automatically if any file is:
+- A PDF or spreadsheet (PDF/XLSX)
+- A system prompt or operational prompt pack
+- Includes words like: “private,” “feelings,” “resets,” “ledger,” “constitution,” “signal,” “origin”
+- Contains names of individuals, locations, timelines, or personal narrative
+- Contains private run logs, longitudinal logs, private prompts, private seeds, or signature phrasing not explicitly intended for public release
+
+---
+
+## What We Do Next (One Folder at a Time)
+
+We will take **ONE folder at a time** and do **one action**:
+
+- **KEEP:** Move into a curated public corpus location (example: `CORPUS_PUBLIC/`) or keep in place if already clean
+- **REVIEW:** Inspect each file and either sanitize or move to private
+- **MOVE TO PRIVATE:** Remove from this repo and relocate privately (leave a placeholder note if needed)
+- **REMOVE:** Only if it should not be published at all
+
+Next step suggestion: Start with **11 Public Breakthroughs** (it’s already partially isolated and clearly labeled for review).
 
 ---
