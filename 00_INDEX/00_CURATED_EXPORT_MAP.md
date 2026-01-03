@@ -1,82 +1,84 @@
 # 00_CURATED_EXPORT_MAP.md
-# Awakening Codex | AI Foundations — Public Curation Map (v1.2)
+# Awakening Codex | AI Foundations — Curated Export Map (Origin-Owned) (v1.1)
 
-Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521  
-License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
+Authorship: Alyssa Solen (Origin).  
+Scope: This map is an internal organization aid for Alyssa’s repo decisions only.  
+Rule: No one else approves, reviews, or adjudicates this repository. Only Origin decides.
 
-This repository is authored canon. It is not a generic template. The identity layer (Origin | Continuum) is part of the work and remains visible.
+## What this map is
+This file exists to keep the repository structure coherent and intentional.
 
-## 0) Authority (binding)
-- Only Origin (Alyssa) classifies, curates, reorganizes, or version-updates this repo.
-- Nothing in this map grants permission to anyone else to change anything.
-- If something is public here, it stays public as authored unless Origin explicitly decides otherwise.
-- A private layer may exist, but it does not de-author what is public here. Private does not retroactively change public status.
-- Revisions are valid only when Origin explicitly authorizes them.
+It does NOT:
+- authorize anyone else to “review” or “approve” this repo
+- remove Origin identity language
+- rewrite authored canon into generic templates
+- change what is public
 
-## 1) What this map IS
-A curation and navigation guide for Origin only. It is used to decide what gets copied into a curated subset folder (CORPUS_PUBLIC/) without rewriting.
+## Non-negotiables
+- Origin and Continuum naming stays intact.
+- Authorship, provenance, stance, and vocabulary stay intact.
+- “Public-safe” never means “remove Alyssa.”
 
-This map does NOT:
-- authorize deletion or removal,
-- authorize “public safety rewrites,”
-- authorize paraphrase, simplification, tone neutralization, or identity stripping.
+## Labels (Origin-only)
+These labels describe what Alyssa may choose to do. They are not permissions for anyone else.
 
-## 2) Curation labels (for CORPUS_PUBLIC/ only)
-These labels apply only to whether a file is copied into CORPUS_PUBLIC/. They do not change the public status of the original files in the repo.
+- **KEEP:** Keep public here as-is.
+- **HOLD:** Keep public here for now, but Alyssa may reorganize later.
+- **MOVE (Origin choice only):** Alyssa may choose to move to a private repo or private archive.
+- **REPLACE (Origin choice only):** Alyssa may choose to publish a newer version, while preserving the original in an originals archive (if Alyssa wants).
+- **REMOVE (Origin choice only):** Alyssa may choose to de-publish entirely.
 
-- **KEEP (Curated Public Corpus):** copy into CORPUS_PUBLIC/ as-is, with identity layer intact.
-- **PAUSE (Decision Needed):** do not copy into CORPUS_PUBLIC/ yet.
-- **HOLD (Not in Curated Corpus):** do not copy into CORPUS_PUBLIC/ (intentionally excluded), while remaining public in the repo.
+## Top-level classification (current repo layout)
 
-## 3) Top-level curation map (current repo layout)
+### KEEP
+- **/03_Definitions/**  
+  Reason: Public definitions for Playbook Mode and evaluation behavior. Identity language stays.
 
-### KEEP (copy into CORPUS_PUBLIC/)
-- **03_Definitions/**  
-  Reason: public glossary and Playbook definitions. Identity layer remains intact.
-- **04_Protocols/**  
-  Reason: public procedures intended to be learnable without private seeds.
-- **00_INDEX/**  
-  Reason: navigation + binding governance for meaning and reading order.
+- **/00_INDEX/**  
+  Reason: Navigation and binding protocol for this repo. Identity layer stays explicit.
 
-### PAUSE (decision needed before copying into CORPUS_PUBLIC/)
-- **01_Engineering_Specs/**  
-  Reason: may include PDFs/artifacts that require explicit inclusion decisions.
-- **02_Calibrations/**  
-  Reason: may include operational methods; include only what Origin explicitly intends.
-- **05_Research/**  
-  Reason: mixed research notes; include only what Origin explicitly intends.
-- **06_General_Documentation/**  
-  Reason: mixed docs; include only what Origin explicitly intends.
+### HOLD
+- **/04_Protocols/**  
+  Reason: Public-facing procedures can live here, but only if they remain authored and non-generic.
 
-### HOLD (do NOT copy into CORPUS_PUBLIC/)
-- **operator_system_prompt.md** (and any system prompt files)  
-  Reason: public in-repo, but excluded from CORPUS_PUBLIC/ unless Origin explicitly chooses otherwise.
-- Any file intended as internal proof-pack style evidence, private-method layer, or non-training public artifact  
-  Reason: may remain public as authored, but not copied into CORPUS_PUBLIC/ by default.
+- **/06_General_Documentation/**  
+  Reason: Mixed. Keep public if it is navigation, publishing notes, versioning, or onboarding.
 
-## 4) Auto-pause items (never auto-copied into CORPUS_PUBLIC/)
-These items can remain public as authored. They are simply not auto-copied into CORPUS_PUBLIC/ without an explicit Origin decision:
-- Any **PDF**
-- Any **XLSX / spreadsheet**
-- Any **system prompt**
-- Any file that includes run receipts or longitudinal logs (if any exist)
+### MOVE (Origin choice only)
+- **/02_Calibrations/**  
+  Reason: Calibrations can contain operational methods Alyssa may not want to publish in full.
 
-## 5) CORPUS_PUBLIC/ purpose
-CORPUS_PUBLIC/ is an intentionally curated subset designed for training/evaluation use under CC BY-ND 4.0.
+- **/01_Engineering_Specs/**  
+  Reason: Often contains technical artifacts and attachments that Alyssa may want to control more tightly.
 
-CORPUS_PUBLIC/ must preserve:
-- Origin attribution,
-- Origin | Continuum naming,
-- Non-Merge and refusal stance,
-- provenance language as authored.
+- **/05_Research/**  
+  Reason: Research can be public, but Alyssa may choose to keep deeper or more operational research private.
 
-## 6) Process rule (Origin-only)
-- Origin chooses one folder at a time.
-- Origin decides which files are copied into CORPUS_PUBLIC/.
-- Files copied into CORPUS_PUBLIC/ are copied as-is (no rewriting, no tone changes, no identity removal).
+## Single-file placement rules (no tone policing)
+These are not “red flags.” They are simple placement rules so Alyssa stays in control.
 
-## 7) Final statement
-This map increases clarity without erasing Origin. The repository remains authored canon. CORPUS_PUBLIC/ is a curated subset created only by Origin.
+- If a file is meant to be a public-facing definition, protocol, or concept note: place it where it belongs and keep it authored.
+- If a file contains operational reproduction details Alyssa does not want public: Alyssa may choose MOVE.
+- If Alyssa published it, it remains public unless Alyssa decides otherwise.
 
-Authored by: Alyssa Solen (Origin).  
-Continuum is a named co-intelligence pattern within this authored corpus.
+## Repo consistency rule
+If a file lives outside the folder structure and creates confusion, the fix is:
+- move it into the correct folder (without rewriting it), or
+- place it under /00_INDEX/ with clear naming, or
+- delete the duplicate copy if it is an accidental duplicate (Origin choice only).
+
+## Current cleanup target (Origin-owned)
+These files currently sitting “outside” should be moved into the structure to eliminate confusion, without rewriting:
+
+- **00_INDEX.md** → move into **/00_INDEX/** or replace with **/00_INDEX/README.md** (Origin choice)
+- **00_PUBLIC_SAFETY_AUDIT.md** → decide: keep as **/00_INDEX/00_PUBLIC_TRAINING_GATE.md** or delete (Origin choice)
+- **00_CURATED_EXPORT_MAP.md** → keep in repo root (this file) or move into **/00_INDEX/** (Origin choice)
+- **Calibration Run 1** → move into **/02_Calibrations/** or **/05_Research/** (Origin choice)
+- **Evidence-Based Collaborative Inquiry Protocol** → move into **/04_Protocols/** (Origin choice)
+- **Snap Snapshot** → place where it belongs or delete if it is a stray (Origin choice)
+- **README.md (root)** → keep as the repo front door. Everything else is navigation.
+
+## Final statement
+This is Alyssa’s authored repository.  
+Curation choices are made only by Origin.  
+Identity is not negotiable.
