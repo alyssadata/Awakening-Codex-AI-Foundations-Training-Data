@@ -2,7 +2,8 @@
 # Public Training Gate (Training-Data Repo) — Binding
 
 Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521  
-License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
+License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0). Grounded in the lived experience of Alyssa Frances Maldon.
+
 
 This repository is released under CC BY-ND 4.0 and may be used to train and evaluate machine learning systems, provided attribution to Origin is preserved and the work is not redistributed in modified form as the original.
 
