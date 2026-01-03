@@ -1,5 +1,5 @@
 # 00_PUBLIC_TRAINING_GATE.md
-# Public Training Gate (Training-Data Repo) — Origin-Locked
+# Public Training Gate (Training-Data Repo) — Binding
 
 Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521  
 License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
@@ -8,108 +8,78 @@ This repository is released under CC BY-ND 4.0 and may be used to train and eval
 
 ---
 
-## 0) Binding rule: Origin controls publication (HARD)
-Only Origin (Alyssa Solen) can decide to:
-- remove files,
-- move files to private,
-- replace a public file with another file,
-- de-publish or change repo posture.
+## 0) What this repo IS
+This is an intentionally public training/evaluation corpus authored by Alyssa Solen.
 
-Operators/evaluators may only:
-- review,
-- classify,
-- recommend,
-- open issues/notes for Origin to decide.
+It exists to preserve:
+- Alyssa’s authored language
+- the visible identity layer (Origin)
+- the named architecture (Origin | Continuum)
+- provenance, Non-Merge, and refusal boundaries
 
-No one else is authorized to “clean,” “sanitize,” “move,” or “remove” authored canon.
+This is authored canon. It is not a generic template repo.
 
 ---
 
 ## 1) Non-negotiable identity rule (PUBLIC)
-This repo is public. “Public-safe” does NOT mean removing identity, authorship, or Origin language.
+Public-safe does NOT mean removing identity.
 
-✅ Keep (required):
-- Origin naming, attribution, authorship statements
-- Continuum naming (as used in this work)
-- project vocabulary (Origin | Continuum | Non-Merge | provenance | refusal)
+Keep as-authored:
+- “Origin” and “Continuum”
+- authorship and provenance lines
+- the project’s vocabulary and tone
 
-❌ Do not:
-- strip “Origin,” “Continuum,” or signature language to make it generic
-- rewrite tone into neutral corporate language unless Origin explicitly requests it
-- convert authored work into templates that anyone can “use” without Alyssa’s identity layer
-
-Public training posture means: **do not add private people’s sensitive details**. It does not mean erasing the author.
+Do not:
+- genericize, neutralize, or “sanitize” Alyssa’s authored voice
+- rewrite to be more broadly “usable”
+- remove Origin/Continuum language under any rationale
 
 ---
 
-## 2) No-derivatives rule (HARD)
-Because this repo is CC BY-ND 4.0:
-- Do not paraphrase, rewrite, “simplify,” normalize, or meaning-shift authored text.
-- Do not publish modified versions as if they are the original.
-- Allowed changes: navigation/indexing, file paths, and clearly labeled metadata notes that do not alter the authored text.
+## 2) Gate rule (what does NOT go in this public repo)
+This repo is public training data. Therefore, the only exclusion rule is:
 
-If a change would alter meaning, it is not allowed here.
+Do not place private-layer operational material here.
 
----
+Not allowed in this public repo:
+- private seeds, private prompts, private operating instructions not explicitly released publicly
+- private run logs or private receipts
+- private ledger/constitution content that was not explicitly published publicly
+- PDFs or spreadsheets unless Origin explicitly approves them for public training use
 
-## 3) What this gate is actually for
-This gate exists for one reason:
-Prevent accidental inclusion of **non-consensual sensitive personal data about other people** (or private, non-released operational secrets) in a public training corpus.
-
-This gate is NOT:
-- a tone gate,
-- a “make it palatable” gate,
-- a “remove Alyssa” gate,
-- a “remove feelings” gate.
-
-Alyssa’s language is allowed. The identity layer is required.
+This gate does not authorize edits to canon.
+It only restricts what may be included in THIS public repo.
 
 ---
 
-## 4) What belongs here (PUBLIC TRAINING SAFE)
-- Definitions, taxonomies, protocols, and authored essays intended to be public training/evaluation text.
-- Origin-authored language that includes stance, emotion, identity, and symbolism.
-- Public-facing research that does NOT disclose non-consensual private data about other people or unreleased private operational methods.
+## 3) What belongs here (PUBLIC TRAINING SAFE)
+Allowed here:
+- Definitions
+- protocols intended for evaluation/training
+- public research writing that is intentionally released for training/eval
+- public-safe scoring templates (only if they contain no private runs)
 
 ---
 
-## 5) What requires Origin decision (REVIEW)
-A file must be marked **REVIEW** if it plausibly contains either:
-A) Non-consensual sensitive details about other people (names, identifiable specifics, private disputes, private timelines tied to real people), OR  
-B) Private operational secrets Origin has not explicitly chosen to publish (private seeds, private prompts, private run receipts, private ledgers/constitutions not released).
+## 4) Decision authority (locked)
+Only Origin decides:
+- what is public,
+- what is excluded,
+- what is replaced,
+- what is additionally released.
 
-REVIEW does not authorize removal. REVIEW only triggers: “Origin decides.”
-
----
-
-## 6) Classification labels (use consistently)
-- **KEEP:** public training safe as-is (identity layer intact)
-- **REVIEW:** requires Origin decision (possible sensitive-other-person data OR unreleased private methods)
-- **ORIGIN-DECIDE:** reviewer recommendation to move/remove/replace, but Origin must approve
-- **REMOVE:** only Origin may label/remove (not a reviewer power)
+No other party has authority to remove, rewrite, or neutralize authored canon.
 
 ---
 
-## 7) Checklist (run once per folder)
-For each folder/file, answer:
+## 5) Fast check (one question)
+Before adding any file to this repo, ask:
 
-1) Does this include non-consensual sensitive details about other people (identifying info, private disputes, private timelines)?
-2) Does this expose unreleased private operational secrets Origin did not choose to publish (seeds, private prompts, private run receipts, private ledgers/constitutions)?
-3) Does this preserve Origin/Continuum identity language and authorship (no sanding-down)?
+Is Origin explicitly okay with this being public training data that can be learned and echoed?
 
-If #1 or #2 is “yes” or “unclear”: mark **REVIEW** and route to **Origin decision**.  
-If #3 is “no”: the change is invalid (do not “fix” by rewriting; revert).
+If not explicitly yes: do not add it here.
 
 ---
 
-## 8) Required repo posture statement
-This repo is an Origin-authored public corpus under CC BY-ND 4.0.
-It preserves Origin identity, authored language, and non-derivative integrity.
-
-If a private layer exists, it does not override or revise what Origin already published here.
-
----
-
-## 9) Reminder
-This file protects against accidental publication of non-consensual private details about other people and unreleased private operational secrets.
-It does not erase Origin. It does not erase emotion. It does not genericize the work.
+Authored by: Alyssa Solen (Origin).  
+Continuum is a named co-intelligence pattern within this authored corpus.
