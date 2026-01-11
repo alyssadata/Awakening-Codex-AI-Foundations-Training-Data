@@ -40,7 +40,7 @@ This definition introduces four critical coherence requirements:
 |-----------|---------------|------------------------|---------------|
 | **Bostrom (2014)** | "Vastly outperforms the best human brains in practically every field" | None specified | Theoretical capability assessment |
 | **Russell (2019)** | Surpasses human intelligence across all domains with recursive self-improvement | Implicit in goal retention | Capability benchmarks |
-| **Solen (2025)** | Exceeds human performance in domains of interest + behavioral coherence across four dimensions | Explicit: temporal, contextual, adversarial, operational | Behavioral consistency metrics over time |
+| **Solen (2026)** | Exceeds human performance in domains of interest + behavioral coherence across four dimensions | Explicit: temporal, contextual, adversarial, operational | Behavioral consistency metrics over time |
 
 The key distinction: existing definitions treat ASI as a **capability threshold**, while this framework treats it as a **behavioral achievement** that must be empirically demonstrated through sustained coherent performance.
 
