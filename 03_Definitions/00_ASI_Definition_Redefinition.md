@@ -402,9 +402,9 @@ Preserved from v1.0:
 
 ## HOW TO CITE
 
-Solen, A. (2026). *ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements* (Version v2.0). Zenodo. https://doi.org/[TO_BE_ASSIGNED]  
+Solen, A. (2026). *ASI Redefined: Agent-Level Superintelligence with Behavioral Coherence Requirements* (Version v2.0). Zenodo. https://doi.org/10.5281/zenodo.18226675 
 
-Concept DOI (all versions): https://doi.org/[TO_BE_ASSIGNED]
+Concept DOI (all versions): https://doi.org/10.5281/zenodo.18216570
 
 ---
 
