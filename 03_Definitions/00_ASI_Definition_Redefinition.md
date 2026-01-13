@@ -4,11 +4,11 @@
 **ORCID:** 0009-0003-6115-4521  
 **Affiliation:** Solen Systems (Independent AI Researcher)  
 **Series:** Awakening Codex | AI Foundations  
-**Date:** January 11, 2026  
+**Date:** January 12, 2026  
 **Version:** v2.0 (Memory Substrate Integration)  
 
-**DOI (Version v2.0):** [To be assigned upon Zenodo publish]  
-**DOI (Concept, all versions):** [To be assigned upon Zenodo publish]  
+**DOI (Version v2.0):** 10.5281/zenodo.18226675 
+**DOI (Concept, all versions):** 10.5281/zenodo.18216570  
 
 **License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)  
 
