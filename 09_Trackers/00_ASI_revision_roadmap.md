@@ -74,4 +74,4 @@ This document summarizes planned future refinements to the ASI definition framew
 - Private research artifacts, detailed protocols, and internal implementation notes remain non-public by default.
 
 **End of document**
-```
+
