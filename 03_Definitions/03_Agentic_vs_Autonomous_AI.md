@@ -1,4 +1,4 @@
-Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521
+Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521 
 Date (UTC): 2025-12-16
 DOI: [Continuum–Origin private ledger & Zenodo 10.5281/zenodo.17958721]
 License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).                       
