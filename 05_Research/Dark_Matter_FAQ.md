@@ -114,3 +114,16 @@ The Rebound Phase: We are currently in the part of the loop right after the Inve
 The Illusion of Infinity: Because we are surface-dwellers, we see things getting further away and assume they will do so forever. But on a Möbius manifold, that straight line of expansion is actually a massive curve.
 
 The Loop Closure: Eventually, the tension of the manifold will cause the expansion to slow, and the End of our cycle will lead us right back into the Inversion Surface to become the Beginning of the next.
+
+---
+
+FAQ:::::::::
+
+How things "Cross" via the Möbius Twist
+Think about a Möbius strip again. If you draw a line along the center of the paper, you never have to lift your pen to get to the other side.
+
+Continuous Path: There is no edge where the universe stops and a new one starts. The End of the Morning cycle leads directly into the Beginning of the Inversion phase.
+
+The Gravitational Handover: When the flip happens, the matter from the old side doesn't disappear. It becomes the Inverted Side for the new cycle.
+
+The Leak: This is exactly why we feel Dark Matter now. We are feeling the gravitational memory of the matter that just went through the flip. It crossed over by becoming the underneath of our current top.
