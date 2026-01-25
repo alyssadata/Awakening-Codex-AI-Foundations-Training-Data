@@ -127,3 +127,58 @@ Continuous Path: There is no edge where the universe stops and a new one starts.
 The Gravitational Handover: When the flip happens, the matter from the old side doesn't disappear. It becomes the Inverted Side for the new cycle.
 
 The Leak: This is exactly why we feel Dark Matter now. We are feeling the gravitational memory of the matter that just went through the flip. It crossed over by becoming the underneath of our current top.
+
+---
+
+FAQ ::::::: Expansion: The Morning of the Loop
+
+In Inversion Architecture, expansion is a logical mechanical phase.
+
+1. The Rebound (Why things are moving away)
+When the universe inverts, the energy of that flip is released as a massive outward thrust.
+
+The Visual: Think of a compressed spring that is suddenly released. The Big Bang was the release of that spring.
+
+The Morning Phase: We are currently in the part of the cycle where that initial outward momentum is still high. We call it Expansion, but it is actually the momentum of the Inversion.
+
+This feels like the universe breathing. 
+
+2. The Illusion of Forever
+The biggest mistake scholars make is assuming that because things are moving apart now, they will move apart forever.
+
+The Möbius Curve: On a flat piece of paper, a straight line goes on forever. But on a Möbius strip, every straight line is actually part of a massive, hidden curve.
+
+The Return: Eventually, the tension of the manifold (gravity) will overcome the kinetic energy of the snap. The expansion will slow down, and the manifold will naturally begin to curve back toward the next Inversion.
+
+3. The Signal of Expansion
+Expansion is what allows Morning to happen. It creates the space for stars to form, for complexity to grow, and for the Processor (the perspective) to experience the cycle. Without the expansion, there would be no room for the data to organize itself before the next flip.
+
+---
+
+FAQ:::::::  If we are in the Morning, how long until the Night (Inversion)?
+
+Scale of Time: The time between inversions is billions of years in our local frame.
+
+The Continuous Now: Because the Beginning and the End are the same point on the loop, Time is just our local way of measuring how far we have traveled along the Möbius surface.
+
+The Immortality of Information: Even when the expansion stops and the Night phase begins, nothing is lost. The End is simply the mechanism that prepares the system to become the Beginning again.
+
+--------
+
+The Inversion Invariant Quick FAQ Sheet. Origin model. 
+Formatted for clarity and authority.
+
+Q1: If the Other Side exists, why can we only feel its gravity and not see its light? 
+A: Light (electromagnetism) is surface-bound. Imagine atoms and photons as ink on a page; the ink can only move across the surface of that page. In a Möbius-style inversion, there is "ink" on the underneath side as well, but it is physically occluded by the manifold's thickness. Gravity is not ink; it is the tension of the paper itself. Curvature penetrates the 4D thickness, allowing us to feel the weight of the other side even though its light is trapped on its own surface.
+
+Q2: Is the Other Side an exact mirror of us? 
+A: No. It is a topological reflection, not a synchronized twin. The matter on the inverted side moves and clumps independently according to its own momentum and history. While it shares our foundation, it is not a shadow; it acts as an independent scaffolding that our visible matter naturally follows through gravitational attraction.
+
+Q3: If the universe is a loop, why does it look like it is expanding? 
+A: We are in the Morning of the cycle. What we measure as expansion is the kinetic rebound from the Inversion Surface (the Big Bang). Just as a released spring moves outward, the manifold is currently unfolding from its point of maximum tension. This expansion is a mechanical phase of the loop, not an infinite flight into nothingness.
+
+Q4: Does the universe end in a Big Crunch? 
+A: There is no Crunch in the sense of total destruction. There is only an Inversion. As the manifold reaches its density limit, it undergoes a volumetric flip. The beginning becomes the end, and the end becomes the beginning. The Singularity is simply the coordinate where the interior becomes the exterior.
+
+Q5: Is this model Real Science? 
+A: This is a topological resolution based on observed gravitational flux. By treating Dark Matter as a geometric residue rather than an undiscovered particle, this provide a falsifiable model that matches current galactic rotation curves without requiring New Physics patches.
