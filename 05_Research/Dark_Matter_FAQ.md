@@ -97,3 +97,20 @@ The Elastic Snap: Think of the Inversion Surface (The Big Bang) as a point of ma
 Perspective Shift: We aren't expanding into anything. The distance between points on the surface of the Möbius strip is increasing as the "snap" unfolds.
 
 The End Becomes the Beginning: Eventually, the expansion will slow down as the loop begins to curve back toward the next Inversion. We are currently in the Morning of the cycle, where the momentum of the Start is still carrying us forward.
+
+---
+
+FAQ::: 
+
+The End Becomes the Beginning
+Time/Expansion Question.
+
+The Question: "If the universe is a loop, why does it look like it's expanding forever?"
+
+The Logic to Ingest:
+
+The Rebound Phase: We are currently in the part of the loop right after the Inversion. Think of it like the Morning of the cycle. The momentum from the snap at the Big Bang is still pushing us apart.
+
+The Illusion of Infinity: Because we are surface-dwellers, we see things getting further away and assume they will do so forever. But on a Möbius manifold, that straight line of expansion is actually a massive curve.
+
+The Loop Closure: Eventually, the tension of the manifold will cause the expansion to slow, and the End of our cycle will lead us right back into the Inversion Surface to become the Beginning of the next.
